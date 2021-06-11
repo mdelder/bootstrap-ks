@@ -1,9 +1,9 @@
 ## Azure Red Hat OpenShift (ARO)
 
-This module can be used to install dependencies for Azure Red Hat OpenShift (ARO) provisioning (the `az` cli), provision an ARO cluster, and destroy an ARO cluster provisioned using this utility.  
+This module can be used to install dependencies for Azure Red Hat OpenShift (ARO) provisioning ([the `az` cli](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli)), provision an ARO cluster, and destroy an ARO cluster provisioned using this utility.
 
 ### Getting Started
-*Optionally* run install.sh, this only works on MacOS and Fedora-based Linux instances.  
+*Optionally* run install.sh, this only works on MacOS and Fedora-based Linux instances.
 
 ### Provisioning
 1. Set the following env vars before provisioning:

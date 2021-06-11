@@ -1,0 +1,5 @@
+# Find/Replace `kind-cluster` to match your cluster namespace
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: kind-cluster
